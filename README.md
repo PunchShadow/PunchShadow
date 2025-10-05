@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PunchShadow, PhD candidate @ National Taiwan University EE | Honor Associate @ ECE UW-Madison
+- 👋 Hi, I’m @PunchShadow, PhD candidate @ National Taiwan University EE | Honorary Associate @ ECE UW-Madison
 - 👀 Research area: high-performance computing, system software, parallel/ concurrent programming, blockchain, and embedded systems
 - 🌱 Current research: GPU-accelerated graph algorithms
 - 💞️ I’m looking to collaborate on a GPU-related topic
