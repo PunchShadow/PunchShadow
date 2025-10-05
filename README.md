@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @PunchShadow, PhD candidate in electrical engineering of National Taiwan University.
-- 👀 Research area: high performance computing, system software, parallel/ concurrent programming, blockchain and embedded systems
+- 👋 Hi, I’m @PunchShadow, PhD candidate @ National Taiwan University EE | Honor Associate @ ECE UW-Madison
+- 👀 Research area: high-performance computing, system software, parallel/ concurrent programming, blockchain, and embedded systems
 - 🌱 Current research: GPU-accelerated graph algorithms
-- 💞️ I’m looking to collaborate on GPU-related topic
+- 💞️ I’m looking to collaborate on a GPU-related topic
 - 📫 How to reach me: email: littleuniverse24@gmail.com, f07921043@ntu.edu.tw
 - 🏛️ Personal page: [My Universe](https://punchshadow.github.io)
 
